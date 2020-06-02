@@ -60,3 +60,14 @@ a:link {
   align-items: center;
   height: 100vh;
 }
+
+/* .one {
+  height: 80%;
+  height: 200px;
+} */
+
+.one img {
+  height: 80%;
+  width: auto;
+  height: 250px;
+}

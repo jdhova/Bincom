@@ -1,5 +1,4 @@
 import React, { Fragment } from 'react';
-import juud1 from '../images/Juud1.png';
 
 const HomePage = () => {
   return (
