@@ -42,8 +42,8 @@ const Family = () => {
           </div>
 
           <div className='one'>
-            <img src={shewanda2} alt='algorithm' />
-            <h3>Algorithm</h3>
+            <img src={shewanda2} alt='shewanda2' />
+            <h3>Shewanda</h3>
             <a href='/https://github.com/jdhova/home-rental'>
               {' '}
               <i className='fa fa-facebook fa-2x' aria-hidden='true'></i>

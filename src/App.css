@@ -72,11 +72,11 @@ a:link {
   padding: 80px;
   grid-gap: 90px;
 }
-
+/* 
 .main-family img {
   height: 100%;
   height: 200px;
-}
+} */
 
 .one h3 {
   padding: 20px;
@@ -103,4 +103,36 @@ a:link {
 .project1 h2 {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
     'Lucida Sans', Arial, sans-serif;
+}
+
+.main-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  justify-self: center;
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+
+.main-footer ul {
+  margin-top: 20px;
+  list-style-type: none;
+  color: aliceblue;
+}
+.main-footer li {
+  margin-top: 20px;
+}
+
+.footer-2 h3 {
+  padding: 20px;
+}
+
+.footer-2 p {
+  padding: 20px;
+}
+
+.font {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
 }
