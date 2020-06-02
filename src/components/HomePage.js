@@ -10,10 +10,6 @@ const HomePage = () => {
           I dont just design web and mobile apps, I bring innovatiive ideas to
           life.
         </h4>
-
-        {/* <div className='home-2'>
-          <img src={juud1} alt='/' />
-        </div> */}
       </div>
     </Fragment>
   );

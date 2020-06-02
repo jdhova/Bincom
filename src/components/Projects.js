@@ -12,32 +12,32 @@ const Projects = () => {
         </div>
         <div class='project2'>
           <div className='one'>
-            <img src={rental} alt='/' />
-          </div>
-
-          <div className='one'>
-            <img src={algorithm} alt='/' />
-          </div>
-
-          <div className='one'>
             <img src={bincom} alt='bincom' />
-            <h3>bincom</h3>
+            <h3>Bincom</h3>
 
-            <a href='#'>Add to Cart</a>
+            <a href='/https://github.com/jdhova/home-rental'>
+              {' '}
+              <i className='fa fa-github fa-2x' aria-hidden='true'></i>
+            </a>
           </div>
 
           <div className='one'>
             <img src={rental} alt='rental' />
-            <h3>rental</h3>
+            <h3>Rental</h3>
 
-            <a href='#'>Add to Cart</a>
+            <a href='/https://github.com/jdhova/home-rental'>
+              {' '}
+              <i className='fa fa-github fa-2x' aria-hidden='true'></i>
+            </a>
           </div>
 
           <div className='one'>
             <img src={algorithm} alt='algorithm' />
-            <h3>algorithm</h3>
-
-            <a href='#'>Add to Cart</a>
+            <h3>Algorithm</h3>
+            <a href='/https://github.com/jdhova/home-rental'>
+              {' '}
+              <i className='fa fa-github fa-2x' aria-hidden='true'></i>
+            </a>
           </div>
         </div>
       </div>
